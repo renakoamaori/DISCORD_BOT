@@ -10,8 +10,8 @@ Este es un proyecto puramente personal, desarrollado por simple capricho.
 
 1.  Clona este repositorio:
     ```bash
-    git clone [URL_DE_TU_REPOSITORIO]
-    cd [NOMBRE_DEL_PROYECTO]
+    git clone https://github.com/renakoamaori/DISCORD_BOT.git
+    cd DISCORD_BOT
     ```
 
 2.  Crea un entorno virtual e instala las dependencias:
