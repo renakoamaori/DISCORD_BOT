@@ -1,0 +1,6 @@
+discord.py
+lavalink
+mutagen
+python-dotenv
+PyNaCl
+typing_extensions
